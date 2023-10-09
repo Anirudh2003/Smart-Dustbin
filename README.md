@@ -25,7 +25,7 @@ The ultrasonic sensor measures the distance to an object. If the distance is les
 2. Upload the provided Arduino sketch (`ultrasonic_servo.ino`) to your Arduino board.
 3. Open the Serial Monitor at a baud rate of 9600 to see the measured distance.
 
-##Work in Progress
+## Work in Progress
 We are planning to connect it to an app through Blynk to make it commercially viable for large enterprises to centralize their waste management.
 
 ---
