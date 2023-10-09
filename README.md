@@ -1,8 +1,8 @@
 ---
 
-# Arduino Ultrasonic Sensor and Servo Motor Example
+# Smart Dustbin
 
-This repository contains an Arduino project that demonstrates how to use an ultrasonic sensor to control a servo motor based on the measured distance.
+This repository contains an Arduino project that demonstrates how to use IOT components to build a smart dustbin.
 
 ## Components Used
 - Arduino board (e.g., Arduino Uno)
